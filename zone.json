@@ -1,0 +1,5 @@
+{
+    "meta.nexusid": "@tlonny/noise",
+    "lighting.base": 0.0,
+    "terrain.dimensions.chunk_space": [4, 4, 1]
+}

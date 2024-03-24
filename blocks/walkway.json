@@ -1,0 +1,9 @@
+{
+    "meta.id": 21,
+    "texture.sample.front": "walkway",
+    "texture.sample.back": "walkway",
+    "texture.sample.left": "walkway",
+    "texture.sample.right": "walkway",
+    "texture.sample.top": "walkway",
+    "texture.sample.bottom": "walkway"
+}

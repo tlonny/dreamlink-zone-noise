@@ -1,0 +1,6 @@
+{
+    "sound" : "noise.ogg",
+    "radius.min": 10000,
+    "radius.max": 10000,
+    "gain": 0.08
+}

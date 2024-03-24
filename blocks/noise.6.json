@@ -1,0 +1,9 @@
+{
+    "meta.id": 10,
+    "texture.sample.front": "noise.6",
+    "texture.sample.back": "noise.6",
+    "texture.sample.left": "noise.6",
+    "texture.sample.right": "noise.6",
+    "texture.sample.top": "noise.6",
+    "texture.sample.bottom": "noise.6"
+}
